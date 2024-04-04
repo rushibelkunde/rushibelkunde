@@ -23,11 +23,12 @@ I'm constantly exploring new technologies and techniques to expand my web develo
 * LinkedIn: [https://www.linkedin.com/in/rushikeshbelkunde/] 
 * Portfolio Website: [https://rushibelkunde.github.io/portfolio]
 
-✨ **Coding Ninjas** ✨
+✨ **Coding Ninjas** [https://www.naukri.com/code360/profile/95df4147-e583-4a0e-b44c-713107eac7e3]✨
 
-![Coding stats](https://github-readme-stats.vercel.app/api?username=rushibelkunde&show_icons=true&theme=radical)
+![Coding stats](https://github.com/rushibelkunde/rushibelkunde/assets/105653187/fbe03984-29e4-40a4-9d15-be8cd5cd4e4d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushibelkunde&layout=compact)
+![Screenshot from 2024-04-04 12-07-00](https://github.com/rushibelkunde/rushibelkunde/assets/105653187/55cf55e6-4db2-4a58-ab9d-378d36d15e69)
+
 
 
 
@@ -41,11 +42,3 @@ I'm constantly exploring new technologies and techniques to expand my web develo
 **Let's build something great together!**
 
 ***
-How to Enhance This README
-
-* **Contribution Visualization:** There are a few ways to showcase your contributions:
-    1. **GitHub Readme Stats:**  [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  This dynamically generates visually appealing contribution insights.
-    2. **Static Image:** If you use tools that create contribution charts, embed them directly into your README.
-* **Project Spotlights:** Feature 2-3 of your most impactful projects. Include a brief description, technologies used, and a link to the repository.
-* **Badges:** Include relevant badges (e.g., tech stacks, CI/CD status, etc.) for quick insights.
-![codingStat]()
