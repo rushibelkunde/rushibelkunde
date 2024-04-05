@@ -23,13 +23,11 @@ I'm constantly exploring new technologies and techniques to expand my web develo
 * LinkedIn: [https://www.linkedin.com/in/rushikeshbelkunde/] 
 * Portfolio Website: [https://rushibelkunde.github.io/portfolio]
 
-✨ **Coding Ninjas** [https://www.naukri.com/code360/profile/95df4147-e583-4a0e-b44c-713107eac7e3]✨
+✨ **Coding Ninjas**✨
 
-![Coding stats](https://github.com/rushibelkunde/rushibelkunde/assets/105653187/fbe03984-29e4-40a4-9d15-be8cd5cd4e4d)
+<img src="https://github.com/rushibelkunde/rushibelkunde/assets/105653187/ff53c31c-4ec5-4b8b-8cb9-09ce3179660e" width="600px"/>
 
-![Screenshot from 2024-04-04 12-07-00](https://github.com/rushibelkunde/rushibelkunde/assets/105653187/55cf55e6-4db2-4a58-ab9d-378d36d15e69)
-
-
+<img src="https://github.com/rushibelkunde/rushibelkunde/assets/105653187/6e4e221d-0176-4e26-bd5b-1b2047043952" width="700px"/>
 
 
 ✨ **GitHub Contributions** ✨
@@ -42,3 +40,4 @@ I'm constantly exploring new technologies and techniques to expand my web develo
 **Let's build something great together!**
 
 ***
+
