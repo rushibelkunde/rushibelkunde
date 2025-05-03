@@ -4,9 +4,9 @@
 
 💻 **My Technology Stack:**
 
-* **Frontend:** HTML, CSS, JavaScript, TailwindCSS, React, Redux, Next.js 13, Remix.js
-* **Backend:** Node.js, Express, MongoDB, Prisma, Firebase
-* **Other:** System Design, DevOps
+* **Frontend:** HTML, CSS, JavaScript, TailwindCSS, React, React-Router, Redux, Next.js, Remix.js
+* **Backend:** Node.js, Express, MongoDB, Postgres, Prisma, Firebase
+* **Other:** System Design, DevOps, Linux
 
 💼 **Currently, I'm a Full Stack Web Developer at Algorisys:**
 
